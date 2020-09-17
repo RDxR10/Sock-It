@@ -14,7 +14,7 @@ def connection(ip,user,passw):
     return data
 
 use = 'User1'
-password = ['p4ssw0rd', 'shivang430#7','prerana_its_me143']
+password = ['p4ssw0rd', 'shivang430#7','donald_1_0']
 
 for password in password:
     print(connection('192.168.0.1',use,password))
